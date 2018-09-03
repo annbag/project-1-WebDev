@@ -1,0 +1,32 @@
+/* font-family: 'Roboto', sans-serif;
+ */
+* {
+	margin: 0;
+	padding: 0;
+}
+html {
+	font-family: 'Oswald', sans-serif;
+}
+/* nav */
+
+
+/* header */
+header {
+	height: 40vh;
+	background-image: url(img/photo1.jpeg);
+	background-position: center;
+	background-size: cover;
+}
+header h1 {
+	color: white;
+	font-size: 60px;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 40vh;
+	background-color: rgba(0 0 0 0.5);
+}
+
+/* main */
+
+
+/* footer */
