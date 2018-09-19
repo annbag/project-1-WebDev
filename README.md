@@ -1,1 +1,1 @@
-https://annbag.github.io/project-1-WebDev/
+https://annbag.github.io/task-1-WebDev/
